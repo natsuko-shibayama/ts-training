@@ -6,3 +6,8 @@ function greeting(name, age = 20){
 greeting("yamada", 30);
 greeting("suzuki");
 
+const user = {
+    name: "Jones",
+    age: 30
+}
+
